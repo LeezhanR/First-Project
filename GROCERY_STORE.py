@@ -1,6 +1,5 @@
 # Grocery Shop
 # Importing Modules and Packages
-from math import *
 from datetime import *
 from prettytable import *
 from pymongo import *
